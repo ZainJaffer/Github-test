@@ -1,7 +1,8 @@
 
 persons = [ 
     {'Name' : 'Bob', 'Age' : 42, 'Occupation' : 'Student'}, 
-    {'Name' : 'Clark', 'Age' : 32, 'Occupation' : 'Bank Clerk'}
+    {'Name' : 'Clark', 'Age' : 32, 'Occupation' : 'Bank Clerk'},
+    {'Name' : 'John', 'Age' : 22, 'Occupation' : 'Office Manager'}
 ]
 
 
